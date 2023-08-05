@@ -123,6 +123,11 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 View Report Link - [Sales Report](https://app.powerbi.com/links/v8u0gUhEvS?ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=linkShare)
 
+## Dashboard:
+Using the measures and calculations, we will design a one-page sales dashboard with various visuals, including charts, graphs, and geo maps. The dashboard will represent sales insights and trends, making it easy to comprehend and facilitate data-driven decision-making.
+
+View Dashboard Link -([https://app.powerbi.com/links/v8u0gUhEvS?ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=linkShare](https://app.powerbi.com/Redirect?action=OpenReport&appId=9faf2422-baa8-412d-9935-e4ced5c261c5&reportObjectId=ae81c079-2dea-4978-b7f8-4fbc2015e592&ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&reportPage=ReportSection&pbi_source=appShareLink&portalSessionId=fd2521d3-9594-4e1c-b58d-aa8ba8cf8761)https://app.powerbi.com/Redirect?action=OpenReport&appId=9faf2422-baa8-412d-9935-e4ced5c261c5&reportObjectId=ae81c079-2dea-4978-b7f8-4fbc2015e592&ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&reportPage=ReportSection&pbi_source=appShareLink&portalSessionId=fd2521d3-9594-4e1c-b58d-aa8ba8cf8761)
+
 
 ## Tools, Software and Libraries :
 
