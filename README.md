@@ -121,12 +121,12 @@ Date Calculation:
 ## Report:
 Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
-View Report Link - [Sales Report](https://app.powerbi.com/links/v8u0gUhEvS?ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=linkShare)
+View Report - [Sales Report](https://app.powerbi.com/links/v8u0gUhEvS?ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=linkShare)
 
 ## Dashboard:
 Using the measures and calculations, we will design a one-page sales dashboard with various visuals, including charts, graphs, and geo maps. The dashboard will represent sales insights and trends, making it easy to comprehend and facilitate data-driven decision-making.
 
-View Dashboard Link - [Dashboard](https://app.powerbi.com/Redirect?action=OpenDashboard&appId=9faf2422-baa8-412d-9935-e4ced5c261c5&dashboardObjectId=8aed4c0b-0a8d-45b7-9a6f-b1b042c25d0e&ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=appShareLink&portalSessionId=fd2521d3-9594-4e1c-b58d-aa8ba8cf8761)
+View Dashboard - [Dashboard](https://app.powerbi.com/Redirect?action=OpenDashboard&appId=9faf2422-baa8-412d-9935-e4ced5c261c5&dashboardObjectId=8aed4c0b-0a8d-45b7-9a6f-b1b042c25d0e&ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=appShareLink&portalSessionId=fd2521d3-9594-4e1c-b58d-aa8ba8cf8761)
 
 ## Tools, Software and Libraries :
 
