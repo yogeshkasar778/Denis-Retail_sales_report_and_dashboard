@@ -7,9 +7,9 @@
 - [Data Gathering and Integration](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#data-gathering-and-integration)
 - [Data Modelling](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#data-modelling)
 - [Data Analysis Expression (DAX) Calculation ](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#data-analysis-expression-dax-calculation-)
-- [Report](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#report)
-- [Dashboard](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#dashboard)
-- [Tools, Software](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#tools-software-and-libraries-)
+- [Report](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#bar_chart-report)
+- [Dashboard](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#bar_chart-dashboard)
+- [Tools, Software](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#tools-software-)
 
 ## :dart: Problem Statement :
 
