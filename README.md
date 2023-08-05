@@ -1,18 +1,17 @@
-# Denis-Sales Report and Dashboard
+# :chart_with_upwards_trend: Denis-Sales Report and Dashboard
 
 ## Table of Contents :
 
-- [Problem Statement]()
-- [Datasource](https://github.com/yogeshkasar778/PowerBI-Project--ICCMen-s-T20-Cricket-World-Cup-2022-data-analysis/edit/main/README.md#datasource-)
-- [Data Collection]()
-- [Data Transformation]()
-- [Data Modelling]()
-- [Data Analysis Expression (DAX)]()
-- [Dashboard]()
-- [Tools, Software and Libraries]()
-- [References]()
+- [Problem Statement](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#problem-statement-)
+- [Data Gathering / Requirement](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#data-gathering--requirement)
+- [Data Gathering and Integration](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#data-gathering-and-integration)
+- [Data Modelling](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#data-modelling)
+- [Data Analysis Expression (DAX) Calculation ](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#data-analysis-expression-dax-calculation-)
+- [Report](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#report)
+- [Dashboard](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#dashboard)
+- [Tools, Software](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard#tools-software-and-libraries-)
 
-## Problem Statement :
+## :dart: Problem Statement :
 
 In This project Created a Power BI Dashboard which helps to create a comprehensive sales report and insightful dashboard that provides a clear overview of sales performance, trends, and analysis. 
 We have gathered data from various sources, including sales data, product information, geography, sales representatives, and categories. The task involves data gathering, data modeling, DAX calculations, 
@@ -118,32 +117,32 @@ Date Calculation:
   
 - `Week Num = WEEKNUM(DateMaster[Date])`
 
-## Report:
+## :bar_chart: Report:
 Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 View Report - [Sales Report](https://app.powerbi.com/links/v8u0gUhEvS?ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=linkShare)
 
-## Dashboard:
+## :bar_chart: Dashboard:
 Using the measures and calculations, we will design a one-page sales dashboard with various visuals, including charts, graphs, and geo maps. The dashboard will represent sales insights and trends, making it easy to comprehend and facilitate data-driven decision-making.
 
 View Dashboard - [Dashboard](https://app.powerbi.com/Redirect?action=OpenDashboard&appId=9faf2422-baa8-412d-9935-e4ced5c261c5&dashboardObjectId=8aed4c0b-0a8d-45b7-9a6f-b1b042c25d0e&ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=appShareLink&portalSessionId=fd2521d3-9594-4e1c-b58d-aa8ba8cf8761)
 
-## Tools, Software and Libraries :
+![image](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard/assets/118357991/91f3054f-7a64-4b35-a755-5aa7d424ca50)
+![image](https://github.com/yogeshkasar778/Denis-Retail_sales_report_and_dashboard/assets/118357991/3ee58995-7610-4cc6-9f08-d51ff212e619)
 
-1.Jupyter Notebook
 
-2.Python
+## Tools, Software :
 
-3.Pandas
+1. Power BI
 
-4.Webscraping
+2. Power Query Editor
 
-5.Beautifual Soup
+3. Power BI Service
 
-6.Power Query Editor
+4. Power BI Desktop
 
-7.Power BI
+5. Power Gateway
 
-8.Anaconda Envirement
+6. Excel
 
-## References
+***
